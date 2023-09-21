@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\oppo1\Desktop\FPGA\final_project\final\src
+vADD_DOUBLE
+VV7f1_R[X3jI9[iLnKL^hN3
+r1
+!s85 0
+31
+IFZfTaTSc;Vfb[7]lGYNK@2
+Z1 dC:\Users\oppo1\Desktop\FPGA\final_project\final\src
+w1686852234
+8C:/Users/oppo1/Desktop/FPGA/final_project/final/src/ADDDOUBLE.v
+FC:/Users/oppo1/Desktop/FPGA/final_project/final/src/ADDDOUBLE.v
+L0 6
+Z2 OL;L;10.1c;51
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@d@d_@d@o@u@b@l@e
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/oppo1/Desktop/FPGA/final_project/final/src/ADDDOUBLE.v|
+!s100 k[7f=Pl0NBPY[?@=_S=VC2
+!s108 1686852241.684000
+!s107 C:/Users/oppo1/Desktop/FPGA/final_project/final/src/ADDDOUBLE.v|
+!i10b 1
+vALU
+VlmGR]fhQ?5@A;eB?OeQK;0
+r1
+31
+I7@Td58@__gO5Kk5zV=@kX0
+R1
+Z4 w1686851364
+FALU.v
+Z5 8C:/Users/oppo1/Desktop/FPGA/final_project/final/src/alu_tb.v
+Z6 FC:/Users/oppo1/Desktop/FPGA/final_project/final/src/alu_tb.v
+L0 6
+R2
+Z7 !s108 1686852241.805000
+Z8 !s107 ALU.v|C:/Users/oppo1/Desktop/FPGA/final_project/final/src/alu_tb.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/oppo1/Desktop/FPGA/final_project/final/src/alu_tb.v|
+R3
+n@a@l@u
+!s85 0
+!s100 KUAGCWnA1V6;jf;]lJInl2
+!i10b 1
+valu_tb
+VL;=kgzZ7GJ2Reg7Z1GkmR2
+r1
+31
+IAF6Led`8NJ:m?Xe7=<h0T1
+R1
+R4
+R5
+R6
+L0 5
+R2
+R7
+R8
+R9
+R3
+!s85 0
+!s100 >Xf]B`;_W1^T;@RfZ_>Hh3
+!i10b 1
+vINV_MOD
+Vc;ezTJfY>7GKI9?c3ifR[3
+r1
+31
+I=2FLCg^YX>8K90WaaIkWa3
+R1
+w1686851029
+8C:/Users/oppo1/Desktop/FPGA/final_project/final/src/INV_MOD.v
+FC:/Users/oppo1/Desktop/FPGA/final_project/final/src/INV_MOD.v
+L0 1
+R2
+R3
+n@i@n@v_@m@o@d
+!s85 0
+!s100 9e_T8ZX@4R36RLQX0`b7[1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/oppo1/Desktop/FPGA/final_project/final/src/INV_MOD.v|
+!s108 1686852241.864000
+!s107 C:/Users/oppo1/Desktop/FPGA/final_project/final/src/INV_MOD.v|
+!i10b 1
+vMOD
+VYJlnbmDP7>QReHc]fcmLf3
+r1
+31
+I5fa]Yb1oo]aFT8;<KCo3`1
+R1
+w1686851019
+8C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MOD.v
+FC:/Users/oppo1/Desktop/FPGA/final_project/final/src/MOD.v
+L0 2
+R2
+R3
+n@m@o@d
+!s85 0
+!s100 oEH9g<=V_APkB5b@j:mIc3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MOD.v|
+!s108 1686852241.916000
+!s107 C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MOD.v|
+!i10b 1
+vMUL64
+VnlIc3oOFj4jC2N3i>=gZS2
+r1
+31
+I[W=3]_[o:]odgXfzX>EQk3
+R1
+w1686850676
+8C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MUL64.v
+FC:/Users/oppo1/Desktop/FPGA/final_project/final/src/MUL64.v
+L0 1
+R2
+R3
+n@m@u@l64
+!s85 0
+!s100 ^OYV;UVPSdbez604H7=cW3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MUL64.v|
+!i10b 1
+!s108 1686852241.968000
+!s107 C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MUL64.v|

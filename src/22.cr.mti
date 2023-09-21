@@ -1,0 +1,37 @@
+C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MOD.v {1 {vlog -work work -vopt C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MOD.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module MOD
+
+Top level modules:
+	MOD
+
+} {} {}} C:/Users/oppo1/Desktop/FPGA/final_project/final/src/INV_MOD.v {1 {vlog -work work -vopt C:/Users/oppo1/Desktop/FPGA/final_project/final/src/INV_MOD.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module INV_MOD
+
+Top level modules:
+	INV_MOD
+
+} {} {}} C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MUL64.v {1 {vlog -work work -vopt C:/Users/oppo1/Desktop/FPGA/final_project/final/src/MUL64.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module MUL64
+
+Top level modules:
+	MUL64
+
+} {} {}} C:/Users/oppo1/Desktop/FPGA/final_project/final/src/ALU.v {1 {vlog -work work -vopt C:/Users/oppo1/Desktop/FPGA/final_project/final/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/oppo1/Desktop/FPGA/final_project/final/src/alu_tb.v {1 {vlog -work work -vopt C:/Users/oppo1/Desktop/FPGA/final_project/final/src/alu_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}}
